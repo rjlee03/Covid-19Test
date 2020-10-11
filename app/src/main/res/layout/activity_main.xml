@@ -19,12 +19,12 @@
 
         <TextView
             android:id="@+id/textView"
-            android:layout_width="168dp"
-            android:layout_height="0dp"
+            android:layout_width="236dp"
+            android:layout_height="35dp"
             android:layout_marginBottom="52dp"
-            android:text="CREATED BY RYUNG"
-            android:textColor="#373B4D"
+            android:text="CREATED BY RYUNGJAE LEE"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#373B4D"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
